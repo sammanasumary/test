@@ -1,0 +1,7 @@
+[
+  {"CompanyId":"company_1","Amount": 100,"AmountPaid":100},
+  {"CompanyId":"company_2","Amount": 200,"AmountPaid":200},
+  {"CompanyId":"company_3","Amount": 300,"AmountPaid":300},
+  {"CompanyId":"company_4","Amount": 400,"AmountPaid":400},
+  {"CompanyId":"company_5","Amount": 500,"AmountPaid":500}
+]
