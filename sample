@@ -1,1 +1,7 @@
-{"value":"Rajendran"}
+[
+  {"CompanyId":"company_1","Amount": 100,"AmountPaid":100},
+  {"CompanyId":"company_1","Amount": 100,"AmountPaid":100},
+  {"CompanyId":"company_1","Amount": 100,"AmountPaid":100},
+  {"CompanyId":"company_1","Amount": 100,"AmountPaid":100},
+  {"CompanyId":"company_1","Amount": 100,"AmountPaid":100}
+]
