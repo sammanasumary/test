@@ -1,0 +1,9 @@
+{
+  "DataSource":"SYNCLAPN17854",
+  "InitialCatalog":"Dynamic2",
+  "Username":"sa",
+  "Password":"Poka5508",
+  "IntegratedSecurity":"",
+  "AdvancedSettings":"",
+  "CommandTimeout":"300"
+}
