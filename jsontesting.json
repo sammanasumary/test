@@ -1,0 +1,17 @@
+{
+  "Ext_BSrEucVettingOutcome": {
+    "Name": "",
+    "_context": "Testing_Content",
+    "_self": "https://testing.com"
+  },
+  "Ext_BSrIgVettingOutcome": {
+    "Name": "",
+    "_context": "softwaretest",
+    "_self": "https://software.com"
+  },
+  "Ext_BReqServerTeamVettingOutcome": {
+    "Name": "",
+    "_context": "developer",
+    "_self": "developer/test"
+  }
+}
