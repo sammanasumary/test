@@ -1,0 +1,406 @@
+{
+    "results": [
+        
+        {
+            "Ref": 7592411,
+            "Ext_RscrTextString3": "Test Software #2",
+            "RequestedBy": {
+                "Name": "Anthony Spencer",
+                "_context": "api:v2/person/$metadata",
+                "_self": "api:v2/person/39977"
+            },
+            "Ext_RscrPersonSearch": {
+                "Name": "Anthony Spencer",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/39977"
+            },
+            "RequestStatus": {
+                "Name": "Managerial - Approval Timed Out",
+                "_context": "api:v2/request-status/$metadata",
+                "_self": "api:v2/request-status/86"
+            },
+            "SystemStatus": 1,
+            "RequestPhase": {
+                "Name": "Manager Approval",
+                "_context": "api:v2/task-phase/$metadata",
+                "_self": "api:v2/task-phase/29"
+            },
+            "OpenStatus": 0,
+            "PhysicalStatus": {
+                "Name": "Closed",
+                "_context": "api:v2/request-physical-status/$metadata",
+                "_self": "api:v2/request-physical-status/4"
+            },
+            "Ext_RscrYesNo1": {
+                "Name": "Yes",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/18"
+            },
+            "Ext_BSrSoftwareCostType": {
+                "Name": "Licensed",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/2105"
+            },
+            "Ext_RscrTextString2": "1",
+            "Ext_BSrOneOffOrRecurring": {
+                "Name": "One-off",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/2109"
+            },
+            "Ext_RscrTextString4": "Test",
+            "Ext_BSrYesNoDonT_know1": {
+                "Name": "Yes",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/2123"
+            },
+            "Ext_RscrYesNo2": {
+                "Name": "Yes",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/20"
+            },
+            "Ext_RscrYesNo3": {
+                "Name": "Yes",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/22"
+            },
+            "Ext_YesNo6": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_BSrSoftwareType": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_BSrSecurityVettingOutcome": {
+                "Name": "Approved",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/1292"
+            },
+            "Ext_BSrEucVettingOutcome": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_BSrIgVettingOutcome": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_BReqServerTeamVettingOutcome": null,
+            "Check1": false,
+            "Check2": false,
+            "Check3": false,
+            "Check4": false,
+            "CreatedDate": "2023-10-26T04:39:19.6100000Z",
+            "LastActionDate": "2023-10-26T04:51:07.3200000Z",
+            "CompletedDate": "2023-10-26T04:51:07.3200000Z",
+            "_context": "api:v2/softwarevetting/$metadata",
+            "_self": "api:v2/softwarevetting/7592411"
+        },
+		{
+            "Ref": 7592411,
+            "Ext_RscrTextString3": "Test Software #2",
+            "RequestedBy": {
+                "Name": "Anthony Spencer",
+                "_context": "api:v2/person/$metadata",
+                "_self": "api:v2/person/39977"
+            },
+            "Ext_RscrPersonSearch": {
+                "Name": "Anthony Spencer",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/39977"
+            },
+            "RequestStatus": {
+                "Name": "Managerial - Approval Timed Out",
+                "_context": "api:v2/request-status/$metadata",
+                "_self": "api:v2/request-status/86"
+            },
+            "SystemStatus": 1,
+            "RequestPhase": {
+                "Name": "Manager Approval",
+                "_context": "api:v2/task-phase/$metadata",
+                "_self": "api:v2/task-phase/29"
+            },
+            "OpenStatus": 0,
+            "PhysicalStatus": {
+                "Name": "Closed",
+                "_context": "api:v2/request-physical-status/$metadata",
+                "_self": "api:v2/request-physical-status/4"
+            },
+            "Ext_RscrYesNo1": {
+                "Name": "Yes",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/18"
+            },
+            "Ext_BSrSoftwareCostType": {
+                "Name": "Licensed",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/2105"
+            },
+            "Ext_RscrTextString2": "1",
+            "Ext_BSrOneOffOrRecurring": {
+                "Name": "One-off",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/2109"
+            },
+            "Ext_RscrTextString4": "Test",
+            "Ext_BSrYesNoDonT_know1": {
+                "Name": "Yes",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/2123"
+            },
+            "Ext_RscrYesNo2": {
+                "Name": "Yes",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/20"
+            },
+            "Ext_RscrYesNo3": {
+                "Name": "Yes",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/22"
+            },
+            "Ext_YesNo6": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_BSrSoftwareType": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_BSrSecurityVettingOutcome": {
+                "Name": "Approved",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/1292"
+            },
+            "Ext_BSrEucVettingOutcome": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_BSrIgVettingOutcome": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_BReqServerTeamVettingOutcome": null,
+            "Check1": false,
+            "Check2": false,
+            "Check3": false,
+            "Check4": false,
+            "CreatedDate": "2023-10-26T04:39:19.6100000Z",
+            "LastActionDate": "2023-10-26T04:51:07.3200000Z",
+            "CompletedDate": "2023-10-26T04:51:07.3200000Z",
+            "_context": "api:v2/softwarevetting/$metadata",
+            "_self": "api:v2/softwarevetting/7592411"
+        },
+		{
+            "Ref": 7689964,
+            "Ext_RscrTextString3": "philips speech control foot pedal",
+            "RequestedBy": {
+                "Name": "Phyllis Adu",
+                "_context": "api:v2/user/$metadata",
+                "_self": "api:v2/user/6197"
+            },
+            "Ext_RscrPersonSearch": {
+                "Name": "Michael Hung",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/10625"
+            },
+            "RequestStatus": {
+                "Name": "Managerial - Approval Timed Out",
+                "_context": "api:v2/request-status/$metadata",
+                "_self": "api:v2/request-status/86"
+            },
+            "SystemStatus": 1,
+            "RequestPhase": {
+                "Name": "Manager Approval",
+                "_context": "api:v2/task-phase/$metadata",
+                "_self": "api:v2/task-phase/29"
+            },
+            "OpenStatus": 0,
+            "PhysicalStatus": {
+                "Name": "Closed",
+                "_context": "api:v2/request-physical-status/$metadata",
+                "_self": "api:v2/request-physical-status/4"
+            },
+            "Ext_RscrYesNo1": {
+                "Name": "Yes",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/18"
+            },
+            "Ext_BSrSoftwareCostType": {
+                "Name": "Free",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/2106"
+            },
+            "Ext_RscrTextString2": null,
+            "Ext_BSrOneOffOrRecurring": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_RscrTextString4": "not applicable",
+            "Ext_BSrYesNoDonT_know1": {
+                "Name": "I Don't Know",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/2125"
+            },
+            "Ext_RscrYesNo2": {
+                "Name": "Yes",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/20"
+            },
+            "Ext_RscrYesNo3": {
+                "Name": "Yes",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/22"
+            },
+            "Ext_YesNo6": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_BSrSoftwareType": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_BSrSecurityVettingOutcome": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_BSrEucVettingOutcome": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_BSrIgVettingOutcome": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_BReqServerTeamVettingOutcome": {
+                "Name": "",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/1292"
+            },
+            "Check1": false,
+            "Check2": false,
+            "Check3": false,
+            "Check4": false,
+            "CreatedDate": "2024-07-17T07:16:21.1100000Z",
+            "LastActionDate": "2024-08-14T07:31:32.8700000Z",
+            "CompletedDate": "2024-08-14T07:31:32.8700000Z",
+            "_context": "api:v2/softwarevetting/$metadata",
+            "_self": "api:v2/softwarevetting/7689964"
+        },
+		{
+            "Ref": 7685963,
+            "Ext_RscrTextString3": " Anthony Nolan Web Application, AN Connect ",
+            "RequestedBy": {
+                "Name": "Bim Laguda",
+                "_context": "api:v2/user/$metadata",
+                "_self": "api:v2/user/21972"
+            },
+            "Ext_RscrPersonSearch": {
+                "Name": "Emma Middleton",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/14175"
+            },
+            "RequestStatus": {
+                "Name": "Fulfilled",
+                "_context": "api:v2/request-status/$metadata",
+                "_self": "api:v2/request-status/47"
+            },
+            "SystemStatus": 1,
+            "RequestPhase": {
+                "Name": "Closed",
+                "_context": "api:v2/task-phase/$metadata",
+                "_self": "api:v2/task-phase/16"
+            },
+            "OpenStatus": 0,
+            "PhysicalStatus": {
+                "Name": "Closed",
+                "_context": "api:v2/request-physical-status/$metadata",
+                "_self": "api:v2/request-physical-status/4"
+            },
+            "Ext_RscrYesNo1": {
+                "Name": "No",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/19"
+            },
+            "Ext_BSrSoftwareCostType": {
+                "Name": "Free",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/2106"
+            },
+            "Ext_RscrTextString2": null,
+            "Ext_BSrOneOffOrRecurring": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_RscrTextString4": "Anthony Nolan Registry ",
+            "Ext_BSrYesNoDonT_know1": {
+                "Name": "No",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/2124"
+            },
+            "Ext_RscrYesNo2": {
+                "Name": "No",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/21"
+            },
+            "Ext_RscrYesNo3": {
+                "Name": "Yes",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/22"
+            },
+            "Ext_YesNo6": {
+                "Name": "No",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/1864"
+            },
+            "Ext_BSrSoftwareType": {
+                "Name": "Web-based Application",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/2139"
+            },
+            "Ext_BSrSecurityVettingOutcome": {
+                "Name": "Approved",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/1292"
+            },
+            "Ext_BSrEucVettingOutcome": {
+                "Name": " ",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/0"
+            },
+            "Ext_BSrIgVettingOutcome": {
+                "Name": "Approved",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/1292"
+            },
+            "Ext_BReqServerTeamVettingOutcome": {
+                "Name": "Approved",
+                "_context": "api:v2/softwarevetting/$metadata",
+                "_self": "api:v2/softwarevetting/1292"
+            },
+            "Check1": false,
+            "Check2": false,
+            "Check3": false,
+            "Check4": false,
+            "CreatedDate": "2024-07-03T08:31:20.0430000Z",
+            "LastActionDate": "2024-11-13T14:47:53.1770000Z",
+            "CompletedDate": "2024-11-13T14:47:53.1770000Z",
+            "_context": "api:v2/softwarevetting/$metadata",
+            "_self": "api:v2/softwarevetting/7685963"
+        }
+    ],
+    "_self": "api:v2/softwarevetting?$partition=1&$select=Ref,Ext_RscrTextString3,RequestedBy.Name,Ext_RscrPersonSearch.Name,RequestStatus.Name,SystemStatus,RequestPhase.Name,OpenStatus,PhysicalStatus.Name,Ext_RscrYesNo1.Name,Ext_BSrSoftwareCostType.Name,Ext_RscrTextString2,Ext_BSrOneOffOrRecurring.Name,Ext_RscrTextString4,Ext_BSrYesNoDonT_know1.Name,Ext_RscrYesNo2.Name,Ext_RscrYesNo3.Name,Ext_YesNo6.Name,Ext_BSrSoftwareType.Name,Ext_BSrSecurityVettingOutcome.Name,Ext_BSrEucVettingOutcome.Name,Ext_BSrIgVettingOutcome.Name,Ext_BReqServerTeamVettingOutcome.Name,Check1,Check2,Check3,Check4,CreatedDate,LastActionDate,CompletedDate&$filter=SystemStatus%3D%3D1&&Ref=7812419&$top=100"
+}
